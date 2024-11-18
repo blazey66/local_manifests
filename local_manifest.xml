@@ -23,7 +23,7 @@
 <project path="device/qcom/common" name="MI439-CLO/device_qcom_common" remote="github" revision="vic" />
 
 <!--- Vendor Blobs -->
-<project path="vendor/xiaomi/mi439" name="LOLZKERNEL/proprietary_vendor_xiaomi_mi439-4.19" remote="github" clone-depth="1" revision="udc" />
+<project path="vendor/xiaomi/mi439" name="LOLZKERNEL/proprietary_vendor_xiaomi_mi439-4.19" remote="github" clone-depth="1" revision="vic" />
 <project path="vendor/qcom/common" name="LOLZKERNEL/proprietary_vendor_qcom_common" remote="github" clone-depth="1" revision="vauxite" />
 
 <!-- Vendor Opensource -->
