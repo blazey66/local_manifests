@@ -10,6 +10,11 @@
 <project path="hardware/mithorium-4.19/display-hal" name="MI439-CLO/android_hardware_qcom_display_mithorium" remote="github" revision="vic" />
 <project path="hardware/mithorium-4.19/media-hal" name="Mi-Thorium/android_hardware_qcom_media_mithorium" remote="github" revision="mithorium/LA.UM.9.6.4.r2-03900-89xx.QSSI13r2.0" />
 
+<!-- Dependencies -->
+<project path="hardware/mithorium-4.19/dataservices" name="MI439-CLO/android_vendor_qcom_opensource_dataservices" remote="github" revision="vic" />
+<project path="hardware/mithorium-4.19/display-commonsys" name="MI439-CLO/android_vendor_qcom_opensource_display-commonsys" remote="github" revision="vic" />
+<project path="hardware/mithorium-4.19/display-commonsys-intf" name="MI439-CLO/android_vendor_qcom_opensource_display-commonsys-intf" remote="github" revision="vic" />
+   
 <!-- GPS -->
 <project path="hardware/qcom-caf/gps-legacy" name="MI439-CLO/android_hardware_qcom_gps" remote="github" revision="uvite-legacy-component" />
    
