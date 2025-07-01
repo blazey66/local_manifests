@@ -20,6 +20,7 @@
 <!-- Device -->
 <project path="device/xiaomi/mi439" name="blazey66/device_xiaomi_mi439" remote="github" revision="axion/15" />
 <project path="device/qcom/common" name="blazey66/device_qcom_common" remote="github" revision="axion/15" />
+<project path="packages/apps/GrapheneCam" name="blazey66/android_packages_apps_GrapheneCam" remote="github" revision="16" />   
 
 <!--- Vendor Blobs -->
 <project path="vendor/xiaomi/mi439" name="LOLZKERNEL/proprietary_vendor_xiaomi_mi439-4.19" remote="github" clone-depth="1" revision="vic" />
